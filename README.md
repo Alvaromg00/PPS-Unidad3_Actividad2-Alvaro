@@ -45,11 +45,11 @@ El 8000, 8001, 81, 82 y 389:
 
 ![DNSrecon](Imagenes/10.png)
 
-![DNSrecon](Imagenes11.png)
+![DNSrecon](Imagenes/11.png)
 
 Ahora vamos a realizar un escaneo con nmap, algunos de los puertos que aparecen son de otros servicios diferentes a los de las máquinas vulnerables:
 
-![DNSrecon](Imagenes12.png)
+![DNSrecon](Imagenes/12.png)
 
 ## Wfuzz y Dirb
 
